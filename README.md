@@ -51,3 +51,25 @@
 - GitLab Flow
 
     
+
+## Feature Branch 通常的生命週期
+
+在軟體開發和設計思考中，建議 Feature Branch 通常的生命週期的生命長度，會等於一個TASK的結束。
+
+良好的軟體開發和設計思考，可能會占整體開發長度的8成。
+
+有利於提升程式碼開發品質和效率提升，讓系統的品質愈來愈好。
+
+
+
+##  Work Item
+
+### 甚麼樣的東西適合開Work Item?
+
+只要跟軟體開發有關的東西，都可以是一個 Work Item。
+
+透過 WI 留下 Document的方式紀錄各種不同的 commit 和 code change 的 起源和目的。
+
+透過綁定同樣類型的WI，並標上 Release Tag，就能夠有留下版號和板本紀錄 Realease Log。
+
+也能透過版本紀錄回追code change 和 WI。
